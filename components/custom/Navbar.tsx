@@ -17,7 +17,7 @@ import TodoDialog from "@/components/custom/TodoDialog";
 const Navbar = () => {
   return (
     <>
-      <div className="shadow-2xl h-[5rem]">
+      <div className="shadow-lg h-[5rem]">
         <div className="flex justify-between items-center h-full mx-4 text-3xl font-semibold">
           <div>TODO LIST</div>
           <div>

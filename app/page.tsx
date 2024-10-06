@@ -3,7 +3,7 @@ import TodoTables from "@/components/custom/TodoTables";
 
 const page = () => {
   return (
-    <div>
+    <div className="mx-8 mt-10">
       <TodoTables />
     </div>
   );
